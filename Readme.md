@@ -1,4 +1,4 @@
-# AI Architecture Interview Prep
+# Architecture Interview Prep
 This is a repo to share my architecture study for tech interviews.
 
 ## How this works
